@@ -13,9 +13,12 @@
 
 ## ⚙️ Tech Stack
 
+## ⚙️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,git,github,vscode&theme=dark" />
 </p>
+
 
 ---
 
