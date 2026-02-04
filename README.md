@@ -13,10 +13,8 @@
 
 ## ⚙️ Tech Stack
 
-## ⚙️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,git,github,vscode&theme=dark" />
 </p>
 
 
@@ -45,8 +43,6 @@
 
 ## 📚 Currently Learning
 - Data Structures & Algorithms  
-- Backend Development (Node + Express)  
-- Databases (MongoDB)
 
 ---
 
