@@ -37,7 +37,7 @@
 - LocalStorage persistence  
 - Clean UI  
 
-👉 https://github.com/Nitin1234567898/task-manager
+👉 https://github.com/Nitin1234567898/Task-Management-tool
 
 ---
 
