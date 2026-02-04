@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?Nitin1234567898=Nitin1234567898&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Nitin1234567898&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -26,9 +26,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?Nitin1234567898=Nitin1234567898&show_icons=true&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin1234567898&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitin1234567898&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin1234567898&theme=tokyonight" />
 </p>
 
 ---
@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-<img src="https://github.com/Nitin1234567898/Nitin1234567898/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Nitin1234567898/Nitin1234567898/blob/output/github-contribution-grid-snake.svg" />
 </p>
