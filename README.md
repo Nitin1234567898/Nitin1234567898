@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nitin+%F0%9F%91%8B;CSE+Student;DSA+%26+Full-Stack+Developer;Building+Every+Day" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nitin1234567898&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -26,9 +22,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitin1234567898&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nitin1234567898&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin1234567898&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Nitin1234567898&theme=tokyonight" />
 </p>
 
 ---
