@@ -44,8 +44,4 @@
 ## 📚 Currently Learning
 - Data Structures & Algorithms  
 
----
 
-<p align="center">
-  <img src="https://github.com/Nitin1234567898/Nitin1234567898/blob/output/github-contribution-grid-snake.svg" />
-</p>
