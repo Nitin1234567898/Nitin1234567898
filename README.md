@@ -1,0 +1,56 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nitin+%F0%9F%91%8B;CSE+Student;DSA+%26+Full-Stack+Developer;Building+Every+Day" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?Nitin1234567898=Nitin1234567898&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+- Computer Science Engineering Student  
+- Focused on DSA & Full-Stack Development  
+- Turning ideas into working products  
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?Nitin1234567898=Nitin1234567898&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin1234567898&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ✅ Task Management Web App
+- Frontend deployed  
+- LocalStorage persistence  
+- Clean UI  
+
+👉 https://github.com/Nitin1234567898/task-manager
+
+---
+
+## 📚 Currently Learning
+- Data Structures & Algorithms  
+- Backend Development (Node + Express)  
+- Databases (MongoDB)
+
+---
+
+<p align="center">
+<img src="https://github.com/Nitin1234567898/Nitin1234567898/blob/output/github-contribution-grid-snake.svg" />
+</p>
